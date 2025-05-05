@@ -1,0 +1,3 @@
+tqdm
+Telethon
+Pillow
